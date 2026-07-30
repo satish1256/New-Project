@@ -1,4 +1,4 @@
-class Test {
+class MySecondProject {
     // Method to find factorial of given number
     static int factorial(int n)
     {
